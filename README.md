@@ -129,7 +129,7 @@ Enjoy
 =====
 I hope you find Simon useful and I wish you success in your chess programming.  It 
 can be frustrating but it's also a lot of fun.  I welcome all comments, criticisms 
-and suggestions which you can email to me at dhoneycutt@jjg.com.
+and suggestions which you can email to me at ...@jjg.com.
 
 Dec 2004
 Dan Honeycutt.
